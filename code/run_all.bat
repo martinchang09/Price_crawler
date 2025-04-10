@@ -1,0 +1,6 @@
+start cmd /k "python china.py"
+start cmd /k "python taiwan.py"
+start cmd /k "python allianz.py"
+start cmd /k "python fr_pa.py"
+start cmd /k "python cathay.py"
+start cmd /k "python chubb.py"
