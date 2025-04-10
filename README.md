@@ -11,6 +11,7 @@
 |法國巴黎人壽|fr_pa.py|
 |國泰人壽|cathay.py|
 |安聯人壽|allianz.py|
+
 程式使用 Python 撰寫，整合 Selenium 進行網站互動、自動填寫與資料擷取，搭配 `schedule` 套件進行每日定時排程。
 
 ## 🎯 功能亮點
